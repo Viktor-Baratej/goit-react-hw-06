@@ -1,0 +1,15 @@
+.contact_list {
+  display: flex;
+  flex-direction: column;
+  width: fit-content;
+  gap: 20px;
+  border: 2px solid black;
+  border: 20px;
+  padding: 10px;
+  list-style: none;
+}
+
+.list_wraper {
+  display: flex;
+  justify-content: center;
+}
