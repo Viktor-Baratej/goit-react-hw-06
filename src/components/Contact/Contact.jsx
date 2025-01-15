@@ -8,7 +8,7 @@ const Contact = ({ contact }) => {
     <div className={s.item_wrapper}>
       <li className={s.contact_item}>
         <p className={s.contact_info}>
-          {contact.name}: {contact.numder}
+          {contact.name}: {contact.number}
         </p>
         <button
           className={s.contact_btn}
